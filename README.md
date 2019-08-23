@@ -3,6 +3,13 @@
 [logo]: https://github.com/MagnumOpuses/project-meta/blob/master/img/jobtechdev_black.png "JobTech dev logo"
 [A JobTech Project](https://www.jobtechdev.se)
 
+* [Gravity Beacon](https://github.com/MagnumOpuses/gravity-beacon)
+* [Gravity Connector](https://github.com/MagnumOpuses/gravity-connector)
+* [Gravity Ground Control](https://github.com/MagnumOpuses/gravity-ground-control)
+* [Gravity Infrastructure](https://github.com/MagnumOpuses/gravity-infrastructure)
+* [Gravity Portability](https://github.com/MagnumOpuses/gravity-portability)
+* [Gravity Specs](https://github.com/MagnumOpuses/gravity-specs)
+
 # Gravity
 
 This repository is the starting point of the Gravity project with documentation and links to Gravity sub-projects.
