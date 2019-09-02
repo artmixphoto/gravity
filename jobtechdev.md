@@ -1,6 +1,6 @@
 ### Projectname
 
-Gravity
+Gravity information for the jobtech website
 
 ##### Description
 
