@@ -5,6 +5,7 @@
 
 * [Gravity Beacon](https://github.com/MagnumOpuses/gravity-beacon)
 * [Gravity Connector](https://github.com/MagnumOpuses/gravity-connector)
+* [Gravity Demo Site](https://github.com/MagnumOpuses/gravity-demo-site)
 * [Gravity Ground Control](https://github.com/MagnumOpuses/gravity-ground-control)
 * [Gravity Infrastructure](https://github.com/MagnumOpuses/gravity-infrastructure)
 * [Gravity Portability](https://github.com/MagnumOpuses/gravity-portability)
