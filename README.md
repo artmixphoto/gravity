@@ -20,18 +20,18 @@ Arbetsförmedlingen, together with a partner within the private sector, has deve
 An intermediate layer between systems in the labor market where the individual is given the opportunity to handle approval of what information is to be shared and to whom.
 
 ## MVP elements:
-Export of CV data: an API for retrieving CV data from their source (requires the individual to have a strong identification)
-Import of CV data: an API allowing third parties to receive CV data.
-CV-data standardization: a mapping allowing third parties to understand the data sent
-User consent: An interface where the individual requests the collection of own data and handles the consent for the data transfer.
-Data storage: A storage solution for personal data where third parties can only access the information that they have been allowed to access by the data owner.
+* Export of CV data: an API for retrieving CV data from their source (requires the individual to have a strong identification)
+* Import of CV data: an API allowing third parties to receive CV data.
+* CV-data standardization: a mapping allowing third parties to understand the data sent
+* User consent: An interface where the individual requests the collection of own data and handles the consent for the data transfer.
+* Data storage: A storage solution for personal data where third parties can only access the information that they have been allowed to access by the data owner.
 
 ## Architectural constituent:
-Storage: The user chooses where the information should be stored
-Consent: An APP where the user handles transfer consent of their data
-Operator: Technical service that coordinates information flows between services.
-Automation: Handling offline transactions
-Encryption: Modules to facilitate and ensure that an encryption takes place when information is created or read.
+* Storage: The user chooses where the information should be stored
+* Consent: An APP where the user handles transfer consent of their data
+* Operator: Technical service that coordinates information flows between services.
+* Automation: Handling offline transactions
+* Encryption: Modules to facilitate and ensure that an encryption takes place when information is created or read.
 
 _______________________
 
